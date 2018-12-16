@@ -1,7 +1,7 @@
 # Academy-of-Py
 Unit 4 | Assignment - Pandas, Pandas, Pandas
 
-**Academy of Py: Observable Trends**
+**Observable Trends**
 
   From both the “Top Performing Schools” and ”Bottom Performing Schools” analysis, we see Charter schools occupy the top 5 performing schools and District Schools occupying the bottom performing schools. We see this trend as well under the “Scores by School Type” analysis: Charter Schools display an overall passing rate of 95.10366% while District schools score an overall passing rate of 73.673757%. 
 
